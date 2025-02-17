@@ -403,7 +403,8 @@ print(set)
 """
 
 # 8. Convert a set into a sorted list and print the result
-
+"""
 num = {7, 4, 10, 8, 96}
 list = sorted(num)
 print(list)
+"""
